@@ -1,0 +1,80 @@
+{
+  "colleges": [
+    {
+      "name": "Dr Ambedkar Institute Of Technology",
+      "id": 1
+    },
+    {
+      "name": "Rajarajeshwari Institute Of Technology",
+      "id": 2
+    },
+    {
+      "name": "IIT delhi",
+      "id": 3
+    },
+    {
+      "name": "Banglore Institute Of Technology",
+      "id": 4
+    },
+    {
+      "name": "Bombay Technical Institute",
+      "id": 5
+    },
+    {
+      "name": "Don Bosco Technical Institute",
+      "id": 6
+    }
+  ],
+  "course" : [
+    {
+      "name": "Engineering",
+      "id": 1
+    },
+    {
+      "name": "MBA",
+      "id": 2
+    },
+    {
+      "name": "Pharma",
+      "id": 3
+    },
+    {
+      "name": "BSC",
+      "id": 4
+    },
+    {
+      "name": "Agriculture",
+      "id": 5
+    },
+    {
+      "name": "Aero Space",
+      "id": 6
+    },
+    {
+      "name": "MCA",
+      "id": 1
+    }
+  ],
+  "degree" : [
+    {
+      "name": "Diploma",
+      "id": 1
+    },
+    {
+      "name": "Bachelors",
+      "id": 2
+    },
+    {
+      "name": "Masters",
+      "id": 3
+    },
+    {
+      "name": "Phd",
+      "id": 4
+    },
+    {
+      "name": "Graduate",
+      "id": 5
+    }
+  ]
+}
